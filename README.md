@@ -1,4 +1,7 @@
 # codewander-storySearch
+
+8/2/2018: Bug fix: Fixed placeholder setting issue.
+
 Search stories created in an app by name
 
 Go to http://www.codewander.com/qlik-sense-extension-story-search/ to see the settings, demo video of this extension.
